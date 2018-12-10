@@ -1,5 +1,4 @@
-# Interclass3 - Lab
-repository di test per le lezioni su InnerSource / OpenSource / GitHub
+# Andrea Lucidi site
+Test repository and main site older
 
-il sito pubblicato dalla sezione /docs è https://thesignacademy.github.io/InnerSource-Lab/
-
+/docs site link is https://andrealucidi.github.io/Andrea-Lucidi/
