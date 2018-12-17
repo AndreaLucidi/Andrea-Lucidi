@@ -1,18 +1,5 @@
 # test site
 
-questo è il sito di test
+Sito di test di Andrea Lucidi
 
-un elenco:
-- primo
-- - sotto punto
-- secondo
-- terzo
-
-| A  | B  |
-|---|---|
-| 11  | 12  |
-| 21  | 22  |
-
-![GitHub image](img/github_image.jpg)
-
-[link al mio sito](https://stefanocecere.com)
+Sempre stato interessato ai videogiochi, ho deciso di mettermi a svilupparli. Le mie abilità si basano principalmente sulla creazione del level design, conoscendo molti tipi di questo.
